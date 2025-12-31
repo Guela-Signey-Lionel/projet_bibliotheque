@@ -1,0 +1,25 @@
+# Fichiers compilés
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Fitextensions de log
+*.log
+
+# Fichiers de configuration locaux
+*.properties
+
+# Dossiers de build et dépendances
+/target/
+/bin/
+/.idea/
+/.vscode/
+*.iml
+
+# Fichiers système
+.DS_Store
+Thumbs.db
