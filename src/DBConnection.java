@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class DBConnection {
     private static final String URL = "jdbc:postgresql://localhost:5432/bibliotheque_bd";
-    private static final String USERNAME = "Guela Signey Lionel";
+    private static final String USERNAME = "postgres";
     private static final String PASSWORD = "s2403a2402";
     private static final String DRIVER = "org.postgresql.Driver";
 
